@@ -17,78 +17,7 @@ Note: 開放平台上的資料集更新的很快，因此在這邊所整理的�
  
 內政部提供的資料集數量最多
  
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:新細明體;
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-alt:PMingLiU;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
-@font-face
-	{font-family:"\@新細明體";
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:none;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:新細明體;
-	mso-font-kerning:1.0pt;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
- /* Page Definitions */
- @page
-	{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-	mso-header-margin:42.55pt;
-	mso-footer-margin:49.6pt;
-	mso-paper-source:0;
-	layout-grid:18.0pt;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:表格內文;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:"Times New Roman";
-	mso-ansi-language:#0400;
-	mso-fareast-language:#0400;
-	mso-bidi-language:#0400;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2050"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
+ 
 
 <body lang=ZH-TW style='tab-interval:24.0pt;text-justify-trim:punctuation'>
 
@@ -444,8 +373,7 @@ div.Section1
 </div>
 
 </body>
-
-</html>
+ 
 
 
 
@@ -454,76 +382,7 @@ div.Section1
 氣象局的雷達回波資料被下載的次數與比例都是最高的。
 
 有很多資料集的下載次數遠高於瀏覽次數，可能都是透過程式自動下載/拉取的。
- 
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:新細明體;
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-alt:PMingLiU;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
-@font-face
-	{font-family:"\@新細明體";
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:none;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:新細明體;
-	mso-font-kerning:1.0pt;}
- /* Page Definitions */
- @page
-	{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-	mso-header-margin:42.55pt;
-	mso-footer-margin:49.6pt;
-	mso-paper-source:0;
-	layout-grid:18.0pt;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:表格內文;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:"Times New Roman";
-	mso-ansi-language:#0400;
-	mso-fareast-language:#0400;
-	mso-bidi-language:#0400;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="2050"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
+  
 
 <body lang=ZH-TW style='tab-interval:24.0pt;text-justify-trim:punctuation'>
 
@@ -1422,9 +1281,7 @@ div.Section1
 </div>
 
 </body>
-
-</html>
-
+ 
 
 
 **下載、瀏覽次數乘積**
@@ -1432,80 +1289,7 @@ div.Section1
 光看 下載/瀏覽次數的比例 會有 分辨性的問題，例如 1/1 = 1 = 10000/10000，並無法區分何者較常被使用。
 
 因此將 下載、瀏覽次數 相乘，結果 實價登錄的資料集 就浮上來了。
- 
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:新細明體;
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-alt:PMingLiU;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
-@font-face
-	{font-family:"\@新細明體";
-	panose-1:2 2 5 0 0 0 0 0 0 0;
-	mso-font-charset:136;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-1610611969 684719354 22 0 1048577 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-parent:"";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:none;
-	font-size:12.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:新細明體;
-	mso-font-kerning:1.0pt;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
- /* Page Definitions */
- @page
-	{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-	mso-header-margin:42.55pt;
-	mso-footer-margin:49.6pt;
-	mso-paper-source:0;
-	layout-grid:18.0pt;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:表格內文;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:"Times New Roman";
-	mso-fareast-font-family:"Times New Roman";
-	mso-ansi-language:#0400;
-	mso-fareast-language:#0400;
-	mso-bidi-language:#0400;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="3074"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
+  
 
 <body lang=ZH-TW style='tab-interval:24.0pt;text-justify-trim:punctuation'>
 
@@ -2571,9 +2355,7 @@ div.Section1
 </div>
 
 </body>
-
-</html>
-
+ 
 
 
 
