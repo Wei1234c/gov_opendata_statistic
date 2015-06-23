@@ -16,62 +16,7 @@ Note: 開放平台上的資料集更新的很快，因此在這邊所整理的�
 **資料集提供機關 資料集數量**
  
 內政部提供的資料集數量最多
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=big5">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 11">
-<meta name=Originator content="Microsoft Word 11">
-<link rel=File-List href="文件1.files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Wei Lin</o:Author>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2015-06-23T03:17:00Z</o:Created>
-  <o:Pages>1</o:Pages>
-  <o:Words>42</o:Words>
-  <o:Characters>246</o:Characters>
-  <o:Company>Lin's</o:Company>
-  <o:Lines>2</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>287</o:CharactersWithSpaces>
-  <o:Version>11.9999</o:Version>
- </o:DocumentProperties>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:DontDisplayPageBoundaries/>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:PunctuationKerning/>
-  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
-  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:Compatibility>
-   <w:SpaceForUL/>
-   <w:BalanceSingleByteDoubleByteWidth/>
-   <w:DoNotLeaveBackslashAlone/>
-   <w:ULTrailSpace/>
-   <w:DoNotExpandShiftReturn/>
-   <w:AdjustLineHeightInTable/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
- </w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
- </w:LatentStyles>
-</xml><![endif]-->
+ 
 <style>
 <!--
  /* Font Definitions */
@@ -509,62 +454,7 @@ div.Section1
 氣象局的雷達回波資料被下載的次數與比例都是最高的。
 
 有很多資料集的下載次數遠高於瀏覽次數，可能都是透過程式自動下載/拉取的。
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=big5">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 11">
-<meta name=Originator content="Microsoft Word 11">
-<link rel=File-List href="文件1.files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Wei Lin</o:Author>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2015-06-23T03:17:00Z</o:Created>
-  <o:Pages>1</o:Pages>
-  <o:Words>106</o:Words>
-  <o:Characters>606</o:Characters>
-  <o:Company>Lin's</o:Company>
-  <o:Lines>5</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>711</o:CharactersWithSpaces>
-  <o:Version>11.9999</o:Version>
- </o:DocumentProperties>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:DontDisplayPageBoundaries/>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:PunctuationKerning/>
-  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
-  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:Compatibility>
-   <w:SpaceForUL/>
-   <w:BalanceSingleByteDoubleByteWidth/>
-   <w:DoNotLeaveBackslashAlone/>
-   <w:ULTrailSpace/>
-   <w:DoNotExpandShiftReturn/>
-   <w:AdjustLineHeightInTable/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
- </w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
- </w:LatentStyles>
-</xml><![endif]-->
+ 
 <style>
 <!--
  /* Font Definitions */
@@ -1542,62 +1432,7 @@ div.Section1
 光看 下載/瀏覽次數的比例 會有 分辨性的問題，例如 1/1 = 1 = 10000/10000，並無法區分何者較常被使用。
 
 因此將 下載、瀏覽次數 相乘，結果 實價登錄的資料集 就浮上來了。
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=big5">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 11">
-<meta name=Originator content="Microsoft Word 11">
-<link rel=File-List href="文件1.files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Wei Lin</o:Author>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2015-06-23T03:17:00Z</o:Created>
-  <o:Pages>1</o:Pages>
-  <o:Words>156</o:Words>
-  <o:Characters>892</o:Characters>
-  <o:Company>Lin's</o:Company>
-  <o:Lines>7</o:Lines>
-  <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1046</o:CharactersWithSpaces>
-  <o:Version>11.9999</o:Version>
- </o:DocumentProperties>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:DontDisplayPageBoundaries/>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:PunctuationKerning/>
-  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
-  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:Compatibility>
-   <w:SpaceForUL/>
-   <w:BalanceSingleByteDoubleByteWidth/>
-   <w:DoNotLeaveBackslashAlone/>
-   <w:ULTrailSpace/>
-   <w:DoNotExpandShiftReturn/>
-   <w:AdjustLineHeightInTable/>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
- </w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
- </w:LatentStyles>
-</xml><![endif]-->
+ 
 <style>
 <!--
  /* Font Definitions */
