@@ -2542,4 +2542,842 @@ Note: 開放平台上的資料集更新的很快，因此在這邊所整理的�
 
 
 
+**資料集提供機關 下載/瀏覽次數比例_平均值 下載、瀏覽次數乘積_平均值**
+
+現在來看看每個機關 所提供的資料集 平均的 下載比率、下載瀏覽乘積
+
+
+
+<body lang=ZH-TW style='tab-interval:24.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:18.0pt'>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=646
+ style='width:484.4pt;border-collapse:collapse;mso-padding-alt:0cm 1.4pt 0cm 1.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>資料集提供機關<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>下載<span lang=EN-US>/</span>瀏覽次數比例 平均值<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>下載、瀏覽次數乘積 平均值<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>國家災害防救科技中心<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>209%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>73,410,071 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>勞動部職業<span class=GramE>安全衛生署</span><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>15%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>19,411,663 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>文化部<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>28%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>7,752,320 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>中華郵政股份有限公司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>21%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>6,010,505 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>行政院原子能委員會<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>12%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>5,375,345 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>臺灣鐵路管理局<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>21%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>4,470,981 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>國家發展委員會<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>17%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>4,209,342 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>內政部<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>16%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>3,399,788 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>金融監督管理委員會<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>23%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,899,003 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>交通部觀光局<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>27%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,180,764 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>中央選舉委員會<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>11%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,008,311 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>經濟部商業司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>19%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,779,364 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>行政院環境保護署<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>27%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,777,993 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>交通部高速鐵路工程局<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>25%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,640,597 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>衛生福利部社會救助及社工司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>18%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,519,341 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>衛生福利部<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>17%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,440,977 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>交通部公路總局<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>19%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,334,253 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>台灣自來水股份有限公司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>18%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,290,226 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>經濟部投資審議委員會<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>14%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,237,592 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;mso-yfti-lastrow:yes;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>台灣中油股份有限公司油品行銷事業部<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>22%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,180,367 <o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+
+
+再看看單一部門的資料，以**法務部**為例:
+
+
+<body lang=ZH-TW style='tab-interval:24.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:18.0pt'>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=646
+ style='width:484.4pt;border-collapse:collapse;mso-padding-alt:0cm 1.4pt 0cm 1.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>資料集提供機關<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>下載<span lang=EN-US>/</span>瀏覽次數比例 平均值<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;background:yellow;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><b><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>下載、瀏覽次數乘積 平均值<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部檢察司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>8%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>14,071 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部綜合規劃司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>12%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>10,599 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>16%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>10,555 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部統計處<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>18%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>3,270 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部調查局<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>19%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>3,086 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部資訊處<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>12%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,734 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部人事處<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>13%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,638 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部秘書處<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>15%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,475 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部會計處<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>8%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,214 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部保護司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>12%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>2,113 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部司法官學院<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>5%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>1,104 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部行政執行署<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>7%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>811 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部法制司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>8%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>783 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部矯正署<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>6%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>754 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部法醫研究所<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>8%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>723 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部國際及兩岸司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>9%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>662 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部法律事務司<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>17%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>649 <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;mso-yfti-lastrow:yes;height:14.25pt'>
+  <td width=265 nowrap style='width:198.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal style='mso-pagination:widow-orphan'><span
+  style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:新細明體;
+  mso-font-kerning:0pt'>法務部廉政署<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=185 nowrap style='width:138.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>9%<o:p></o:p></span></p>
+  </td>
+  <td width=196 nowrap style='width:146.8pt;padding:0cm 1.4pt 0cm 1.4pt;
+  height:14.25pt'>
+  <p class=MsoNormal align=right style='text-align:right;mso-pagination:widow-orphan'><span
+  lang=EN-US style='font-size:10.0pt;font-family:新細明體;mso-bidi-font-family:
+  新細明體;mso-font-kerning:0pt'>305 <o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
 
